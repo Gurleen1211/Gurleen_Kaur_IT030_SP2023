@@ -4,7 +4,7 @@ body {
      color: black;
 }
  h1 {
-     color: lightcoral;
+     color: black;
 }
  nav, article, #sidebar, footer, #imageBox {
      border: 1px solid #ddd;
@@ -24,7 +24,7 @@ body {
 
 H1{
     display:block;
-    color:lightcoral;
+    color:solidblack;
     text-decoration:none;
     text-align: center;
 }
