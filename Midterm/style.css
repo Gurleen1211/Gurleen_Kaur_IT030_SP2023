@@ -4,14 +4,14 @@ body {
      color: black;
 }
  h1 {
-     color: purple;
+     color: lightcoral;
 }
  nav, article, #sidebar, footer, #imageBox {
      border: 1px solid #ddd;
      padding: 15px;
 }
  nav, article, footer, #imageBox {
-     background: #eee;
+     background: lightblue;
 }
 /*----------------------------Below is the catch all CSS -----------------------------------------------*/
 /*Define the basic*/
@@ -24,7 +24,7 @@ body {
 
 H1{
     display:block;
-    color:purple;
+    color:lightcoral;
     text-decoration:none;
     text-align: center;
 }
@@ -53,7 +53,7 @@ nav li a:hover{
     display: flex;
      flex-direction: row; 
      justify-content: space-evenly;
- 
+
      flex-wrap: wrap;
 
     list-style-type: none;
