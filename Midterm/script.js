@@ -10,14 +10,11 @@
             document.write('Good evening');
          }
 
-
- 
-
-
-
 console.log(window.innerWidth)
 document.write("Current width of screen");
 document.write(innerWidth);
+
+
 
 
 
